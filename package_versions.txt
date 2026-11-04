@@ -340,7 +340,7 @@ tomli                   2.4.0             python
 tomli-w                 1.2.0             python                           
 truststore              0.10.5            python                           
 typing-extensions       4.16.0            python                           
-typing-inspection       0.4.4             python                           
+typing-inspection       0.4.5             python                           
 tzdata                  2026e-r0          apk                              
 unicode-ident           1.0.12            rust-crate                       
 unicode-width           0.1.11            rust-crate                       
